@@ -20,9 +20,9 @@ source-code: https://github.com/zlkatz9001/collection-builder-demo1
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Psychiana Demo Site - ZLK2
+title: Psychiana Demo Site
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Psychiana Collection demo: a new world! 
+tagline: Psychiana Collection demo: a new world 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "ZLK Demo of CollectionBuilder Site"
@@ -61,7 +61,7 @@ metadata: demo-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+# noindex: true 
 
 ##########
 # BUILD SETTINGS 
